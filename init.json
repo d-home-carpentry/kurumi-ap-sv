@@ -1,8 +1,8 @@
 {
-    "tasks": [
+    "groups": [
         {
             "groupName": "開発系",
-            "task": [
+            "tasks": [
                 {
                     "isCompleted": false,
                     "name": "まずはnode.jsのREST APIで、jsonの読み書きをおこなう",
@@ -22,7 +22,7 @@
         },
         {
             "groupName": "家事",
-            "task": [
+            "tasks": [
                 {
                     "isCompleted": false,
                     "name": "タイ料理／パンケーキ／パスタ／カレーの周期で毎週1品作る",
