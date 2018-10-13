@@ -6,16 +6,19 @@
                 {
                     "isCompleted": false,
                     "name": "まずはnode.jsのREST APIで、jsonの読み書きをおこなう",
+                    "PIC": "だい",
                     "period": 20181031
                 },
                 {
                     "isCompleted": false,
                     "name": "TDD／BDDしてみる。なお、mochaコマンドを使うため、globalにmochaを導入（yarn global add mocha）",
+                    "PIC": "だい",
                     "period": 20181031
                 },
                 {
                     "isCompleted": false,
                     "name": "basic認証を実装してみる",
+                    "PIC": "だい",
                     "period": 20181031
                 }
             ]
@@ -26,11 +29,13 @@
                 {
                     "isCompleted": false,
                     "name": "タイ料理／パンケーキ／パスタ／カレーの周期で毎週1品作る",
+                    "PIC": "だい",
                     "period": 20181031
                 },
                 {
                     "isCompleted": false,
                     "name": "タイ料理のレシピを再読み込み",
+                    "PIC": "だい",
                     "period": 20181021
                 }
             ]
