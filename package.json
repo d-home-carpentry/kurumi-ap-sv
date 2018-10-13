@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.0"
+  },
+  "name": "kurumi-ap-sv",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-home-carpentry/kurumi-ap-sv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-home-carpentry/kurumi-ap-sv/issues"
+  },
+  "homepage": "https://github.com/d-home-carpentry/kurumi-ap-sv#readme"
+}
